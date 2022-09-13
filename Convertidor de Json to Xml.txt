@@ -1,0 +1,20 @@
+Json:
+
+[{Sumar{a:2b:4}}, {Restar{a:20b:10}, Grafica{}]
+
+
+
+XML:
+
+<calculadora>
+<sumar>
+<a>2</a>
+<b>4</b>
+</sumar>
+<Restar>
+<a>20</a>
+<b>10</b>
+</Restar>
+<grafica>
+</grafica>
+</calculadora>
